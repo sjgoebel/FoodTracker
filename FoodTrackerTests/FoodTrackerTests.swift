@@ -4,7 +4,7 @@
 //
 //  Created by Stephen Goebel on 10/26/17.
 //  Copyright © 2017 Stephen Goebel. All rights reserved.
-//
+//  Testing small changes
 
 import XCTest
 @testable import FoodTracker
